@@ -8,3 +8,7 @@ usr/local/nagios/libexec/check_container_cpu_usage.sh
 /usr/local/nagios/libexec/check_container_restarts.sh
 /usr/local/nagios/libexec/check_container_uptime_ps.sh
 /usr/local/nagios/libexec/check_net_usage.sh ens33 --para contenedor apache ya que tiene red host.
+
+
+
+
